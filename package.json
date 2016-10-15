@@ -1,0 +1,9 @@
+{
+   "name": "opensat-bot",
+   "version": "1.0.0",
+   "description": "telegram bot running commands in your server",
+   "main": "./main.js",
+   "dependencies": {
+      "node-telegram-bot-api": "0.24.0"
+   }
+}
